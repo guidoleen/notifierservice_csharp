@@ -1,0 +1,8 @@
+D:\SourceTesting\NotifierService\bin\Debug\netstandard2.0\NotifierService.deps.json
+D:\SourceTesting\NotifierService\bin\Debug\netstandard2.0\NotifierService.dll
+D:\SourceTesting\NotifierService\bin\Debug\netstandard2.0\NotifierService.pdb
+D:\SourceTesting\NotifierService\obj\Debug\netstandard2.0\NotifierService.csprojAssemblyReference.cache
+D:\SourceTesting\NotifierService\obj\Debug\netstandard2.0\NotifierService.AssemblyInfoInputs.cache
+D:\SourceTesting\NotifierService\obj\Debug\netstandard2.0\NotifierService.AssemblyInfo.cs
+D:\SourceTesting\NotifierService\obj\Debug\netstandard2.0\NotifierService.dll
+D:\SourceTesting\NotifierService\obj\Debug\netstandard2.0\NotifierService.pdb
